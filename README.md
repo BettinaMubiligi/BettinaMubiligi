@@ -3,10 +3,9 @@
 - mainly C, Java, Javascript and Python.
 - 🌱 I’m currently learning many things! Mainly what's taught
 - in my CS classes.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagraaaaam
+- 📫 How to reach me : Linkedin, @Bettina Mubiligi
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact:
+
 
 <!---
 BettinaMubiligi/BettinaMubiligi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
